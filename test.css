@@ -1,0 +1,49 @@
+body{
+  font: 1em/150% Helvetica, Arial, sans-serif;
+  padding: 1em;
+  margin: 0 auto;
+  max-width: 33em;
+  background-color: #36454f;
+}
+
+#input, #res_title{
+  text-align: center;
+  display: block;
+  background-color: #a6a6a6;
+  color: white;
+  border:1px solid black;
+}
+
+#input{
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+#results{
+  margin-top: 1em;
+}
+
+#res_title{
+  font-size: 1.25em;
+  margin-top: 0.25em;
+}
+
+#res_description{
+  background-color: rgb(204, 85, 50);
+  color: white;
+  padding: 2em;
+  border:1px solid black;
+}
+button {
+  background-color: #36454f;
+  border: none;
+  padding: 15px 18px 5px 23px;
+}
+
+a{
+  color:white;
+}
+
+a:visited{
+  color:white;
+}
